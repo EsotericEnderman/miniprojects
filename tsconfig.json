@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"rootDir": "src",
+		"outDir": "distrib",
+		"lib": ["ES6"],
+		"types": ["node"],
+		"moduleDetection": "force",
+		"esModuleInterop": true,
+		"target": "ES2020",
+		"moduleResolution": "node"
+	},
+	"exclude": ["distrib"]
+}

@@ -1,0 +1,27 @@
+{
+	"name": "coding-plus-math-mini-projects",
+	"version": "1.0.0",
+	"description": "Some of my small projects relating to math and coding.",
+	"main": "index.js",
+	"scripts": {
+		"test": "run"
+	},
+	"keywords": [
+		"coding",
+		"math",
+		"mini-project",
+		"project",
+		"small"
+	],
+	"author": "Slqmy",
+	"license": "MIT",
+	"dependencies": {
+		"decimal.js": "^10.4.3",
+		"fs": "^0.0.1-security",
+		"mathjs": "^12.4.1"
+	},
+	"type": "module",
+	"devDependencies": {
+		"@types/node": "^20.11.25"
+	}
+}
