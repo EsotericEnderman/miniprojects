@@ -17,6 +17,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"decimal.js": "^10.4.3",
+		"esoteric-math": "^0.0.1",
 		"fs": "^0.0.1-security",
 		"mathjs": "^12.4.1"
 	},
