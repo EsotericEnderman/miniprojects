@@ -2,10 +2,6 @@
 	"name": "miniprojects",
 	"version": "1.0.0",
 	"description": "Some of my small projects related to math and coding.",
-	"main": "index.js",
-	"scripts": {
-		"test": "run"
-	},
 	"keywords": [
 		"coding",
 		"math",
