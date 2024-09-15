@@ -13,7 +13,11 @@
 		"project",
 		"small"
 	],
-	"author": "Slqmy",
+	"author": {
+		"name": "Esoteric Enderman",
+		"url": "https://github.com/EsotericEnderman",
+		"email": "90862990+EsotericEnderman@users.noreply.github.com"
+	},
 	"license": "MIT",
 	"dependencies": {
 		"decimal.js": "^10.4.3",
