@@ -17,7 +17,6 @@
 	"license": "MIT",
 	"dependencies": {
 		"decimal.js": "^10.4.3",
-		"fs": "^0.0.1-security",
 		"mathjs": "^12.4.1"
 	},
 	"type": "module",
